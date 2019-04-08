@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+/local.properties
+/.gradle/
+/.idea/
+/.google/
+/android-Camera2Video.iml
+/Application/Application.iml
+/Application/build/
